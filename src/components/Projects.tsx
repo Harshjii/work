@@ -19,7 +19,7 @@ const Projects = () => {
       description: 'Online clothing store, product catalog, shopping cart',
       image: '/assets/shop.png',
       icon: Heart,
-      features: ['Product Management', 'Shopping Cart', 'User Authentication', 'Payment Integration'],
+      features: ['Product Management', 'Shopping Cart', 'User Authentication', 'Payment Integration', 'Admin panel'],
       demoLink: 'https://d-edi.com',
       color: 'from-purple-500 to-pink-500'
     }
